@@ -1,3 +1,3 @@
 Essay
 ======
-[IXD101 Portfolio](https://sarahcollinson.github.io/ixd101/index.html)
+[IXD102 Essay]https://sarahcollinson.github.io/IXD102-Essay/
