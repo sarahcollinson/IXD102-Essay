@@ -19,10 +19,45 @@ header {
     color:azure;
 }
 
-.background-color {
-    padding: 4em 0;
-    background: #265072;
+
+class {
+   background: #fafafa;
+    color: #103254;
+    }
+.how-the-internet-was-created {
+    background-color: aliceblue;
+    color: #103254;
+    width: 100%;
+    max-width: 900px;
+    margin: auto;
+    padding: 270px;
 }
+.modern-society {
+    background-color: #103254;
+}
+
+.social-media {
+    background-color: aliceblue;
+    color: #103254;
+    width: 100%;
+    max-width: 900px;
+    margin: auto;
+    padding: 270px;
+}
+.education {
+    background-color: #103254;
+}
+
+.conclusion {
+    background-color: aliceblue;
+    color: #103254;
+    width: 100%;
+    max-width: 900px;
+    margin: auto;
+    padding: 270px;
+}
+
+
 /*------ TYPOGRAPHY ------*/
 
 h1, h2, {
@@ -176,6 +211,7 @@ footer {
     color: #103254;
     background: #A8D9EF;
 }
+
 
 .connections {
     position: relative;
